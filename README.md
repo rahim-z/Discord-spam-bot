@@ -1,4 +1,4 @@
-Discord-SPAMMER
+# Discord-SPAMMER
 Free and Open Source discord bot
 
 YOU NEED TO INSTALL PYTHON FIRST : https://www.python.org/downloads/
